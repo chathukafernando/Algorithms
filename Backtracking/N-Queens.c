@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define max 8
+#define max 9
 
 int n;
 int board[8][8] = {{0,0,0,0,0,0,0,0},{0,0,0,0,0,0,0,0},
